@@ -1,6 +1,7 @@
 # zipper
 
-A new Flutter project.
+Flutter project for zipping files by direct link.
+F*ck the corporate proxies.
 
 ## Getting Started
 
